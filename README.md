@@ -1,5 +1,7 @@
 # Intranet based Video over Wi-Fi (VoWi-Fi) system within a single access point using socket programming
 
+In the provided code, the client (ClientViewer) needs to know the IP address of the machine running the server (CameraServer), and the server needs to know its own IP address to allow clients to connect to it.
+
 ## Server (CameraServer): who wants to share his screen
 
 1. ```ServerSocket``` is created on a specified Port. (we have used, 9999)
