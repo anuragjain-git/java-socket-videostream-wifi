@@ -13,7 +13,6 @@ import java.awt.image.WritableRaster;
 
 public class CameraServer {
     private static final int PORT = 9999;
-    private static final String SERVER_IP = "10.160.66.149"; // Replace with the actual IP address of the ClientViewer
 
     public static void main(String[] args) {
         try {
