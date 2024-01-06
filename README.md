@@ -1,8 +1,8 @@
-# java-socket-videostream-wifi
+# Intranet based Video over Wi-Fi (VoWi-Fi) system within a single access point using socket programming
 
 ## Server (CameraServer): who wants to share his screen
 
-1. ```ServerSocket``` is created on a specified Port. (we have used, 999)
+1. ```ServerSocket``` is created on a specified Port. (we have used, 9999)
 
 - The ServerSocket class is part of the Java standard library and is used to create a ```socket``` that listens for incoming connections from clients. It provides a way to establish a server on a specified port, waiting for clients to connect.
 
